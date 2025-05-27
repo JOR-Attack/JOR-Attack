@@ -33,8 +33,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=es" alt="JOR-Attack" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&" alt="JOR-Attack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOR-Attack&show_icons=true&locale=es" alt="JOR-Attack" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOR-Attack&" alt="JOR-Attack" />
 </p>
 
 ---
