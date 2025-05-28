@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Jorge Burgos</h1>
+<h1 align="center">¡Hola! 👋 Soy JOR</h1>
 <h3 align="center">Desarrollador apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
