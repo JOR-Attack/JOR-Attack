@@ -50,7 +50,12 @@
 ## 🐍 El código se mueve por mis venas
 
 <p align="center">
-  <img src="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
+</picture>
+
 </p>
 
 ---
