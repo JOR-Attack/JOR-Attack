@@ -13,7 +13,7 @@
 - 🔭 Actualmente trabajando en proyectos de desarrollo web y aplicaciones móviles.
 - 🌱 Aprendiendo tecnologías como React, Node.js y Flutter.
 - 💬 Pregúntame sobre desarrollo full-stack y buenas prácticas de programación.
-- 📫 Puedes contactarme en: tu-email@example.com
+- 📫 Puedes contactarme en: jorenbulo@gmail.com
 - ⚡ Dato curioso: ¡Me encanta resolver acertijos y desafíos de lógica!
 
 ---
