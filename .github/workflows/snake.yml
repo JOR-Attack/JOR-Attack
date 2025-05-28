@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche
   workflow_dispatch:
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
