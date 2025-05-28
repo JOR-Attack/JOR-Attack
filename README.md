@@ -42,10 +42,21 @@
 ### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical" alt="JOR-Attack" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOR-Attack&theme=radical" alt="JOR-Attack" />
 </p>
 
 ---
+
+## 🐍 El código se mueve por mis venas
+
+<p align="center">
+  <img src="https://github.com/tu-usuario/tu-usuario/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+> ✨ Usa [Platane's snake](https://github.com/Platane/snk) para generar esta animación. ¿Quieres que te ayude a configurarla?
+
+---
+
 
 ### 📫 Conéctate conmigo
 
