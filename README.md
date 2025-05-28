@@ -50,10 +50,8 @@
 ## 🐍 El código se mueve por mis venas
 
 <p align="center">
-  <img src="https://github.com/tu-usuario/tu-usuario/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
-> ✨ Usa [Platane's snake](https://github.com/Platane/snk) para generar esta animación. ¿Quieres que te ayude a configurarla?
 
 ---
 
