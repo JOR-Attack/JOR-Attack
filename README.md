@@ -35,8 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JOR-Attack&show_icons=true&locale=es" alt="JOR-Attack" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOR-Attack&" alt="JOR-Attack" />
-</p>
-<p align= "center">
+  <br>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOR-Attack&theme=react&layout=compact" />
 </p>
 
