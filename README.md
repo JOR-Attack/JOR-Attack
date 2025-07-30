@@ -1,6 +1,3 @@
-<h1 align="center">¡Hola! 👋 Soy JOR</h1>
-<h3 align="center">Desarrollador apasionado por la tecnología y la innovación</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JOR-Attack&label=Profile%20views&color=0e75b6&style=flat" alt="JOR-Attack" />
   <img src="https://img.shields.io/github/followers/JOR-Attack?label=Followers&style=social" alt="JOR-Attack" />
@@ -65,7 +62,8 @@
 ### 📫 Conéctate conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://twitter.com/tu-usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://instagram.com/tu-usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/jorge-burgos--/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://x.com/JorgeBu76381700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/jorgelu.ul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" /></a>
 </p>
+
