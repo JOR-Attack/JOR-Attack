@@ -27,15 +27,7 @@
 
 ---
 
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOR-Attack&theme=radical" alt="JOR-Attack" />
-</p>
-
----
-
-## 🐍 El código se mueve por mis venas
+## 🐍 El código es mi pasion
 
 <p align="center">
   <picture>
