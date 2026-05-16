@@ -2,7 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=JOR-Attack&label=Profile%20views&color=0e75b6&style=flat" alt="JOR-Attack" />
   <img src="https://img.shields.io/github/followers/JOR-Attack?label=Followers&style=social" alt="JOR-Attack" />
 </p>
-https://portafolio-yorkdev.netlify.app/
+
+---
+
+### 🔗 Portafolio
+
+<p align="center">
+  <a href="https://portafolio-yorkdev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Mi%20Portafolio-Visitar%20Sitio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mí
