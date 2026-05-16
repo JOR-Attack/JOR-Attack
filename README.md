@@ -37,15 +37,14 @@
 
 ---
 
-## 🐍 El código es mi pasion
+## 🐍 El código es mi pasión
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
-</picture>
-
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://github.com/JOR-Attack/JOR-Attack/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -53,8 +52,15 @@
 ### 📫 Conéctate conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jorge-burgos--/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://x.com/JorgeBu76381700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/jorgelu.ul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/jorge-burgos--/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
 
+  <a href="https://x.com/JorgeBu76381700" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
+  </a>
+
+  <a href="https://www.instagram.com/jorgelu.ul/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" />
+  </a>
+</p>
